@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test_Case.Test_Changping",
+    "children" : [ {
+      "name" : "test_Exchange_code",
+      "children" : [ {
+        "name" : "TestArt",
+        "children" : [ {
+          "name" : "单机兑换码用例1-正向",
+          "uid" : "ee6ee27adf955425",
+          "parentUid" : "a1f66e9c6b00bf3a79d6669e645b4b54",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658730355810,
+            "stop" : 1658730355987,
+            "duration" : 177
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "单机兑换码用例2-正向",
+          "uid" : "9c7f577952e035ac",
+          "parentUid" : "a1f66e9c6b00bf3a79d6669e645b4b54",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658730355990,
+            "stop" : 1658730356241,
+            "duration" : 251
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "单机兑换码用例3-正向",
+          "uid" : "c4b25f3029ae5e47",
+          "parentUid" : "a1f66e9c6b00bf3a79d6669e645b4b54",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658730356245,
+            "stop" : 1658730358528,
+            "duration" : 2283
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "单机兑换码用例4-正向",
+          "uid" : "6c90bcf1af9fa91",
+          "parentUid" : "a1f66e9c6b00bf3a79d6669e645b4b54",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1658730358530,
+            "stop" : 1658730358530,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a1f66e9c6b00bf3a79d6669e645b4b54"
+      } ],
+      "uid" : "f6d74d40aedb242928042a3c7e7c0fc2"
+    } ],
+    "uid" : "0d61e358134dae89a3246a0fe12de654"
+  } ]
+}

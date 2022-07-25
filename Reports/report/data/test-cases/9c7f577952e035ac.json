@@ -1,0 +1,114 @@
+{
+  "uid" : "9c7f577952e035ac",
+  "name" : "单机兑换码用例2-正向",
+  "fullName" : "Test_Case.Test_Changping.test_Exchange_code.TestArt#test_02",
+  "historyId" : "b514c58a2a42df7f9e73d797d935c5d5",
+  "time" : {
+    "start" : 1658730355990,
+    "stop" : 1658730356241,
+    "duration" : 251
+  },
+  "description" : "接口地址:\"/operate/exchangeCode/list\"",
+  "descriptionHtml" : "<p>接口地址:&quot;/operate/exchangeCode/list&quot;</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestArt",
+    "time" : {
+      "start" : 1658730355689,
+      "stop" : 1658730355809,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "接口地址:\"/operate/exchangeCode/list\"",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4225b1cc6e79578b",
+      "name" : "log",
+      "source" : "4225b1cc6e79578b.txt",
+      "type" : "text/plain",
+      "size" : 17502
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestArt::0",
+    "time" : {
+      "start" : 1658730358531,
+      "stop" : 1658730358531,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "单机兑换码模块"
+  }, {
+    "name" : "feature",
+    "value" : "单机兑换码-查询"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=2, reruns_delay=6)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_Changping"
+  }, {
+    "name" : "suite",
+    "value" : "test_Exchange_code"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestArt"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9FSJ2R0"
+  }, {
+    "name" : "thread",
+    "value" : "11472-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_Changping.test_Exchange_code"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=2, reruns_delay=6)" ]
+  },
+  "source" : "9c7f577952e035ac.json",
+  "parameterValues" : [ ]
+}

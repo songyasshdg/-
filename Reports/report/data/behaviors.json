@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "单机兑换码模块",
+    "children" : [ {
+      "name" : "单机兑换码-单个生成",
+      "children" : [ {
+        "name" : "单机兑换码用例1-正向",
+        "uid" : "ee6ee27adf955425",
+        "parentUid" : "5dbca49c17594160827765c292bfe5c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658730355810,
+          "stop" : 1658730355987,
+          "duration" : 177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5dbca49c17594160827765c292bfe5c3"
+    }, {
+      "name" : "单机兑换码-查询",
+      "children" : [ {
+        "name" : "单机兑换码用例2-正向",
+        "uid" : "9c7f577952e035ac",
+        "parentUid" : "5b079e501724233ea4295baa19fcfe04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658730355990,
+          "stop" : 1658730356241,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b079e501724233ea4295baa19fcfe04"
+    }, {
+      "name" : "单机兑换码生成-批量生成",
+      "children" : [ {
+        "name" : "单机兑换码用例3-正向",
+        "uid" : "c4b25f3029ae5e47",
+        "parentUid" : "345801958b2fb888f1e80686bc3eee10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658730356245,
+          "stop" : 1658730358528,
+          "duration" : 2283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "345801958b2fb888f1e80686bc3eee10"
+    }, {
+      "name" : "单机兑换码-使用测试接口",
+      "children" : [ {
+        "name" : "单机兑换码用例4-正向",
+        "uid" : "6c90bcf1af9fa91",
+        "parentUid" : "24a839f3338fd594fbdb06900892c303",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1658730358530,
+          "stop" : 1658730358530,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24a839f3338fd594fbdb06900892c303"
+    } ],
+    "uid" : "95d02ddc655a168823e568946d702406"
+  } ]
+}

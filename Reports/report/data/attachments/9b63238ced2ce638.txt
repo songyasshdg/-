@@ -1,0 +1,14 @@
+[32mINFO    [0m 产品运营系统:my_Base_Chanping.py:99 
+请求方法：POST
+请求地址：http://192.168.1.38:6105/operate/exchangeCode/add
+请求参数:{'expire_time': '2022-06-20 00:00:00', 'num': 1, 'type': 1, 'value': 0}
+响应拼接参数：expire_time=2022-06-20+00%3A00%3A00&num=1&type=1&value=0
+请求头:{'token': 'wbtokenscj1dsm32fci6ihv4y3nz9a8', 'charset': 'UTF-8'}
+上传文件:None
+
+
+
+响应结果：{"ret":1,"msg":"生成成功"}
+
+
+[32mINFO    [0m 产品运营系统:my_assart_Changping.py:18 响应状态码:200, 状态描述:生成成功

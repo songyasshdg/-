@@ -1,0 +1,79 @@
+{
+  "b514c58a2a42df7f9e73d797d935c5d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c7f577952e035ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658730355990,
+        "stop" : 1658730356241,
+        "duration" : 251
+      }
+    } ]
+  },
+  "07cafb4aaddd4c8089286a4eb56dee7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c90bcf1af9fa91",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 单机兑换码测试服未配置使用不了(需要生成的兑换码需要刷新缓存才能生效), 正式服是OK的",
+      "time" : {
+        "start" : 1658730358530,
+        "stop" : 1658730358530,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8e002d5f8cdd9d0e9cbfe1b031f16b67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4b25f3029ae5e47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658730356245,
+        "stop" : 1658730358528,
+        "duration" : 2283
+      }
+    } ]
+  },
+  "609df6def768ae88df4c81790b28d84e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee6ee27adf955425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658730355810,
+        "stop" : 1658730355987,
+        "duration" : 177
+      }
+    } ]
+  }
+}

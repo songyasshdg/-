@@ -1,0 +1,102 @@
+{
+  "uid" : "6c90bcf1af9fa91",
+  "name" : "单机兑换码用例4-正向",
+  "fullName" : "Test_Case.Test_Changping.test_Exchange_code.TestArt#test_04",
+  "historyId" : "07cafb4aaddd4c8089286a4eb56dee7b",
+  "time" : {
+    "start" : 1658730358530,
+    "stop" : 1658730358530,
+    "duration" : 0
+  },
+  "description" : "接口地址:/operate/exchangeCode/usetest",
+  "descriptionHtml" : "<p>接口地址:/operate/exchangeCode/usetest</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 单机兑换码测试服未配置使用不了(需要生成的兑换码需要刷新缓存才能生效), 正式服是OK的",
+  "statusTrace" : "('C:\\\\Users\\\\Administrator\\\\a\\\\Apis\\\\Test_Case\\\\Test_Changping\\\\test_Exchange_code.py', 53, 'Skipped: 单机兑换码测试服未配置使用不了(需要生成的兑换码需要刷新缓存才能生效), 正式服是OK的')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestArt",
+    "time" : {
+      "start" : 1658730355689,
+      "stop" : 1658730355809,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestArt::0",
+    "time" : {
+      "start" : 1658730358531,
+      "stop" : 1658730358531,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "单机兑换码-使用测试接口"
+  }, {
+    "name" : "epic",
+    "value" : "单机兑换码模块"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=2, reruns_delay=6)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip('单机兑换码测试服未配置使用不了(需要生成的兑换码需要刷新缓存才能生效), 正式服是OK的')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_Changping"
+  }, {
+    "name" : "suite",
+    "value" : "test_Exchange_code"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestArt"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9FSJ2R0"
+  }, {
+    "name" : "thread",
+    "value" : "11472-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_Changping.test_Exchange_code"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip('单机兑换码测试服未配置使用不了(需要生成的兑换码需要刷新缓存才能生效), 正式服是OK的')", "flaky(reruns=2, reruns_delay=6)" ]
+  },
+  "source" : "6c90bcf1af9fa91.json",
+  "parameterValues" : [ ]
+}

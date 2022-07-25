@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Jul 25 14:25:58 CST 2022","Mon Jul 25 14:25:58 CST 2022","0","Test_Case.Test_Changping","test_Exchange_code","TestArt","","","单机兑换码用例4-正向","接口地址:/operate/exchangeCode/usetest"
+"passed","Mon Jul 25 14:25:55 CST 2022","Mon Jul 25 14:25:56 CST 2022","251","Test_Case.Test_Changping","test_Exchange_code","TestArt","","","单机兑换码用例2-正向","接口地址:""/operate/exchangeCode/list"""
+"passed","Mon Jul 25 14:25:56 CST 2022","Mon Jul 25 14:25:58 CST 2022","2283","Test_Case.Test_Changping","test_Exchange_code","TestArt","","","单机兑换码用例3-正向","接口地址:/operate/exchangeCode/batchAdd"
+"passed","Mon Jul 25 14:25:55 CST 2022","Mon Jul 25 14:25:55 CST 2022","177","Test_Case.Test_Changping","test_Exchange_code","TestArt","","","单机兑换码用例1-正向","接口地址:/operate/exchangeCode/add"

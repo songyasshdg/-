@@ -1,0 +1,41 @@
+[ {
+  "uid" : "6c90bcf1af9fa91",
+  "name" : "单机兑换码用例4-正向",
+  "time" : {
+    "start" : 1658730358530,
+    "stop" : 1658730358530,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9c7f577952e035ac",
+  "name" : "单机兑换码用例2-正向",
+  "time" : {
+    "start" : 1658730355990,
+    "stop" : 1658730356241,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4b25f3029ae5e47",
+  "name" : "单机兑换码用例3-正向",
+  "time" : {
+    "start" : 1658730356245,
+    "stop" : 1658730358528,
+    "duration" : 2283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee6ee27adf955425",
+  "name" : "单机兑换码用例1-正向",
+  "time" : {
+    "start" : 1658730355810,
+    "stop" : 1658730355987,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
